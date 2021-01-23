@@ -1,2 +1,2 @@
 # project1
-ETL
+ETL: Extract, Transform, Load.
